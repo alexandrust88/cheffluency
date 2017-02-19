@@ -1,0 +1,1177 @@
+{
+  "name": "unlessme",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 2,
+        "vendor_id": "GenuineIntel",
+        "family": "205",
+        "model": "14857",
+        "stepping": "9",
+        "physical_id": "CPU0",
+        "model_name": "Intel64 Family 6 Model 58 Stepping 9",
+        "mhz": "2601",
+        "cache_size": "512 KB"
+      },
+      "total": 4,
+      "cores": 2,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 148416475,
+        "kb_available": 88731066,
+        "kb_used": 59685409,
+        "percent_used": 40,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "D:": {
+        "kb_size": 107330138,
+        "kb_available": 105436942,
+        "kb_used": 1893196,
+        "percent_used": 1,
+        "mount": "D:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "E:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "E:",
+        "volume_name": null
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume1",
+        "build_number": "7601",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 7 Enterprise ",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": "Service Pack 1",
+        "cs_name": "LTRO-0063",
+        "current_time_zone": 120,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "3796732",
+        "free_space_in_paging_files": "7386812",
+        "free_virtual_memory": "11156944",
+        "install_date": "20170117100958.000000+120",
+        "large_system_cache": null,
+        "last_boot_up_time": "20170218071757.109999+120",
+        "local_date_time": "20170218103423.095000+120",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "8589934464",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 7 Enterprise |C:\\Windows|\\Device\\Harddisk0\\Partition3",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 104,
+        "number_of_users": 2,
+        "operating_system_sku": 4,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Admin",
+        "serial_number": "00392-918-5000002-85891",
+        "service_pack_major_version": 1,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "8272280",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume3",
+        "system_directory": "C:\\Windows\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "16542700",
+        "total_visible_memory_size": "8272280",
+        "version": "6.1.7601",
+        "windows_directory": "C:\\Windows"
+      },
+      "name": "Microsoft Windows 7 Enterprise ",
+      "release": "6.1.7601",
+      "version": "6.1.7601 Service Pack 1 Build 7601",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "bootup_state": "Normal boot",
+        "caption": "LTRO-0063",
+        "chassis_bootup_state": 3,
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": 120,
+        "daylight_in_effect": false,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "LTRO-0063",
+        "domain": "ceragon.com",
+        "domain_role": 1,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Dell Inc.",
+        "model": "Latitude E6430",
+        "name": "LTRO-0063",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "Dell System",
+          "1[0534]",
+          "3[1.0]",
+          "12[www.dell.com]",
+          "14[1]",
+          "15[0]"
+        ],
+        "part_of_domain": true,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Admin",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT",
+          "Potential_Browser",
+          "Master_Browser"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "8470814720",
+        "user_name": "GIGANET\\alexandrust",
+        "wake_up_type": 6,
+        "workgroup": null
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "8272280kB",
+        "free": "7386812kB"
+      },
+      "total": "8272280kB",
+      "free": "3794732kB"
+    },
+    "network": {
+      "interfaces": {
+        "0xe": {
+          "configuration": {
+            "ip_address": [
+              "192.168.0.100",
+              "fe80::786f:30ce:c95d:a881"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000014] Intel(R) Centrino(R) Advanced-N 6205",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "192.168.0.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) Centrino(R) Advanced-N 6205",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20170218121836.000000+120",
+            "dhcp_lease_obtained": "20170218101836.000000+120",
+            "dhcp_server": "192.168.0.1",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "ceragon.com",
+              "ceragon.com"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "LTRO-0063",
+            "dns_server_search_order": [
+              "192.168.0.1"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 14,
+            "interface_index": 14,
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "A4:4E:31:9B:D2:5C",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "NETwNs64",
+            "setting_id": "{CACD25DD-6462-4D8B-A991-9FBE6246D6B0}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000014] Intel(R) Centrino(R) Advanced-N 6205",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) Centrino(R) Advanced-N 6205",
+            "device_id": "14",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{CACD25DD-6462-4D8B-A991-9FBE6246D6B0}",
+            "index": 14,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 14,
+            "last_error_code": null,
+            "mac_address": "A4:4E:31:9B:D2:5C",
+            "manufacturer": "Intel Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) Centrino(R) Advanced-N 6205",
+            "net_connection_id": "Wireless Network Connection",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_0082&SUBSYS_13218086&REV_34\\4&752EA02&0&00E1",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) Centrino(R) Advanced-N 6205",
+            "service_name": "NETwNs64",
+            "speed": "144000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "LTRO-0063",
+            "time_of_last_reset": "20170218071757.109999+120"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.0.100": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.0.255",
+              "family": "inet"
+            },
+            "fe80::786f:30ce:c95d:a881": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "A4:4E:31:9B:D2:5C": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.0.1": "10:fe:ed:f9:ce:7c",
+            "192.168.0.104": "6c:71:d9:5e:b4:a2",
+            "192.168.0.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0xf": {
+          "configuration": {
+            "ip_address": [
+              "192.168.70.1",
+              "fe80::e0d4:951b:6732:2fce"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000016] Juniper Network Connect Virtual Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Juniper Network Connect Virtual Adapter",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20170225073324.000000+120",
+            "dhcp_lease_obtained": "20170218073324.000000+120",
+            "dhcp_server": "10.200.200.200",
+            "dns_domain": "ceragon.com",
+            "dns_domain_suffix_search_order": [
+              "ceragon.com",
+              "ceragon.com"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "LTRO-0063",
+            "dns_server_search_order": [
+              "192.168.67.10",
+              "10.10.10.3"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 16,
+            "interface_index": 15,
+            "ip_connection_metric": 1,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.255",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:FF:B0:CB:1F:07",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "dsNcAdpt",
+            "setting_id": "{43E087BA-AEB3-4B50-8959-8DBE941E3CCB}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000016] Juniper Network Connect Virtual Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Juniper Network Connect Virtual Adapter",
+            "device_id": "16",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{43E087BA-AEB3-4B50-8959-8DBE941E3CCB}",
+            "index": 16,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 15,
+            "last_error_code": null,
+            "mac_address": "00:FF:B0:CB:1F:07",
+            "manufacturer": "Juniper",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Juniper Network Connect Virtual Adapter",
+            "net_connection_id": "Local Area Connection* 11",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\DSNCADPT\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Juniper Network Connect Virtual Adapter",
+            "service_name": "dsNcAdpt",
+            "speed": "50000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "LTRO-0063",
+            "time_of_last_reset": "20170218071757.109999+120"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.70.1": {
+              "prefixlen": "32",
+              "netmask": "255.255.255.255",
+              "broadcast": "192.168.70.1",
+              "family": "inet"
+            },
+            "fe80::e0d4:951b:6732:2fce": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:FF:B0:CB:1F:07": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.10.10.3": "00:ff:b3:cb:1f:07",
+            "10.10.10.124": "00:ff:b3:cb:1f:07",
+            "10.10.10.172": "00:ff:b3:cb:1f:07",
+            "10.100.0.105": "00:ff:b3:cb:1f:07",
+            "137.133.24.33": "00:ff:b3:cb:1f:07",
+            "192.168.45.62": "00:ff:b3:cb:1f:07",
+            "192.168.62.203": "00:ff:b3:cb:1f:07",
+            "192.168.66.23": "00:ff:b3:cb:1f:07",
+            "192.168.66.37": "00:ff:b3:cb:1f:07",
+            "192.168.66.186": "00:ff:b3:cb:1f:07",
+            "192.168.67.9": "00:ff:b3:cb:1f:07",
+            "192.168.67.10": "00:ff:b3:cb:1f:07",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "192.168.0.1",
+      "default_interface": "0xe"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "192.168.0.100",
+    "macaddress": "A4:4E:31:9B:D2:5C",
+    "ip6address": "fe80::786f:30ce:c95d:a881",
+    "os": "windows",
+    "os_version": "6.1.7601",
+    "platform": "windows",
+    "platform_version": "6.1.7601",
+    "platform_family": "windows",
+    "uptime_seconds": 11788,
+    "uptime": "3 hours 16 minutes 28 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "2.0",
+        "ws_man_stack_version": "2.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "2.0.50727.5485",
+        "build_version": "6.1.7601.17514",
+        "compatible_versions": [
+          "1.0",
+          "2.0"
+        ],
+        "remoting_protocol_version": "2.1"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.3.1",
+        "release_date": "2016-04-26",
+        "target": "i386-w64-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "i686-w64-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "D:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "D:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "D:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0",
+        "gem_bin": "D:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.18.31",
+        "chef_root": "D:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.18.31-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "8.23.0",
+        "ohai_root": "D:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.23.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "command": {
+
+    },
+    "hostname": "LTRO-0063",
+    "machinename": "LTRO-0063",
+    "fqdn": "LTRO-0063.ceragon.com",
+    "domain": "ceragon.com",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1487406877.638356,
+    "packages": {
+      "7-Zip 16.02 (x64)": {
+        "version": "16.02",
+        "publisher": "Igor Pavlov"
+      },
+      "Git version 2.11.1": {
+        "version": "2.11.1",
+        "publisher": "The Git Development Community",
+        "installdate": "20170212"
+      },
+      "Pulse Secure Setup Client 64-bit Activex Control": {
+        "version": "2.1.1.1",
+        "publisher": "Pulse Secure, LLC"
+      },
+      "Mozilla Firefox 50.1.0 (x64 en-US)": {
+        "version": "50.1.0",
+        "publisher": "Mozilla"
+      },
+      "Notepad++ (64-bit x64)": {
+        "version": "7.3",
+        "publisher": "Notepad++ Team"
+      },
+      "Intel(R) Network Connections Drivers": {
+        "version": "18.1",
+        "publisher": "Intel"
+      },
+      "McAfee Drive Encryption Agent": {
+        "version": "7.1.3.604",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170117"
+      },
+      "Microsoft .NET Framework 4.5": {
+        "version": "4.5.50709",
+        "publisher": "Microsoft Corporation"
+      },
+      "McAfee Agent": {
+        "version": "5.0.4.283",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170117"
+      },
+      "Configuration Manager Client": {
+        "version": "5.00.8239.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170217"
+      },
+      "Microsoft Silverlight": {
+        "version": "5.1.50901.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office 64-bit Components 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office Shared 64-bit MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Policy Platform": {
+        "version": "1.2.3602.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Visual C++ 2005 Redistributable (x64)": {
+        "version": "8.0.61000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "McAfee Drive Encryption": {
+        "version": "7.1.3.604",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170117"
+      },
+      "Local Administrator Password Solution": {
+        "version": "6.2.0.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "SysAid Agent": {
+        "version": "16.1.25.102",
+        "publisher": "SysAid Ltd"
+      },
+      "Google Chrome": {
+        "version": "56.0.2924.87",
+        "publisher": "Google Inc.",
+        "installdate": "20170117"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "50.1.0",
+        "publisher": "Mozilla"
+      },
+      "Microsoft Office Professional Plus 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170214"
+      },
+      "Pulse Secure Network Connect 8.1": {
+        "version": "8.1.9.45775",
+        "publisher": "Pulse Secure, LLC"
+      },
+      "Pulse Secure Network Connect 8.2": {
+        "version": "8.2.6.51693",
+        "publisher": "Pulse Secure, LLC"
+      },
+      "JetBrains PyCharm Community Edition 2016.3.2": {
+        "version": "163.10154.50",
+        "publisher": "JetBrains s.r.o."
+      },
+      "Sublime Text Build 3114": {
+        "publisher": "Sublime HQ Pty Ltd",
+        "installdate": "20170212"
+      },
+      "WinSCP 5.1": {
+        "version": "5.1",
+        "publisher": "Martin Prikryl",
+        "installdate": "20170212"
+      },
+      "ZOC Terminal 6.4": {
+        "version": "6.41",
+        "publisher": "EmTec Innovative Software"
+      },
+      "Chef Development Kit v1.2.22": {
+        "version": "1.2.22.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20170217"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Python 3.5.2 Documentation (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Python 3.5.2 Executables (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Python 3.5.2 Development Libraries (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Google Update Helper": {
+        "version": "1.3.32.7",
+        "publisher": "Google Inc.",
+        "installdate": "20170117"
+      },
+      "eZAgent": {
+        "version": "2.3.6.2",
+        "publisher": "Zscaler Inc.",
+        "installdate": "20170117"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Update for Microsoft Office 2016 (KB3115497) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB3114690) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920712) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115081) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115141) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft OneNote 2016 (KB3141455) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Access 2016 (KB3115503) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920720) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Word 2016 (KB3128057) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Project 2016 (KB3141459) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft PowerPoint 2016 (KB3127981) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Outlook 2016 (KB3141453) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft OneDrive for Business (KB3127993) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118263) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2910979) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3127990) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118262) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3127987) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Publisher 2016 (KB3114368) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3141473) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB3085538) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3114709) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920678) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115278) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3127982) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3127983) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118338) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3128055) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Excel 2016 (KB3141472) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3128056) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2910954) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB3115135) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2910970) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2016 (KB2920727) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3114903) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920724) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118264) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3141451) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3118324) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Visio 2016 (KB3128045) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3127992) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Skype for Business 2016 (KB3128049) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115100) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB2920684) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2016 (KB3115276) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Access MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Excel MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft PowerPoint MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Publisher MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Outlook MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170214"
+      },
+      "Microsoft Word MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170214"
+      },
+      "Microsoft Office Proofing Tools 2016 - English": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Outils de vérification linguistique 2016 de Microsoft Office - Français": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Herramientas de corrección de Microsoft Office 2016: español": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office Proofing (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft InfoPath MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office Shared MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Security Update for Microsoft Office 2016 (KB3085635) 32-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft DCF MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft OneNote MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Groove MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office OSM MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office OSM UX MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Office Shared Setup Metadata MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Access Setup Metadata MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "Microsoft Skype for Business MUI (English) 2016": {
+        "version": "16.0.4266.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170214"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2737083)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2742613)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2840642v2)": {
+        "version": "2",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2861208)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2894854v2)": {
+        "version": "2",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2898864)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2901118)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB2972107)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5 (KB3035490)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Python Launcher": {
+        "version": "3.5.2121.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Python 3.5.2 pip Bootstrap (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Python 3.5.2 Test Suite (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Adobe Refresh Manager": {
+        "version": "1.8.0",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20170117"
+      },
+      "Adobe Acrobat Reader DC": {
+        "version": "15.023.20056",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20170121"
+      },
+      "Python 3.5.2 Tcl/Tk Support (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "McAfee VirusScan Enterprise": {
+        "version": "8.8.07000",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170117"
+      },
+      "McAfee Drive Encryption Go": {
+        "version": "7.1.3",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170117"
+      },
+      "Python 3.5.2 Utility Scripts (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "MobaXterm": {
+        "version": "9.0.0.0",
+        "publisher": "Mobatek",
+        "installdate": "20170215"
+      },
+      "Python 3.5.2 Core Interpreter (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      },
+      "Intel(R) Processor Graphics": {
+        "version": "9.17.10.3040",
+        "publisher": "Intel Corporation"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "ConfigMgr Client Setup Bootstrap": {
+        "version": "5.00.8239.1001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170117"
+      },
+      "IBM BigFix Client": {
+        "version": "9.5.1.9",
+        "publisher": "IBM Corp.",
+        "installdate": "20170117"
+      },
+      "Python 3.5.2 Standard Library (32-bit)": {
+        "version": "3.5.2150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20170212"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "GTB Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
